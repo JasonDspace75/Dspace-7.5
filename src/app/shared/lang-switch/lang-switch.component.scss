@@ -1,0 +1,11 @@
+.dropdown-toggle::after {
+  display:none;
+}
+
+.dropdown-toggle {
+  color: #1F295B;
+
+  &:hover, &:focus {
+    color: #BCA75B;
+  }
+}

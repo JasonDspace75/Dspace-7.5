@@ -1,0 +1,27 @@
+.btn-custom{
+    height: 250px;
+    width: 250px;
+  color: white;
+  background-color: #1F295B;
+  border: none;
+  border-radius: 10px;
+  font-size: 25px;
+  position: relative;
+  transition: border-radius 0.2s ease;
+}
+.btn-custom i{
+    font-size: 50px;
+}
+.btn-custom:hover{
+    background-color: #BCA75B;
+    color: white;
+    border-radius: 10px 70px 10px 10px;
+}
+.btn-custom {
+    height: 190px;
+    width: 100%;
+    font-size: 20px;
+  }
+  .btn-custom i{
+    font-size: 30px;
+  }
